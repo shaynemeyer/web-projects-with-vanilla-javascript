@@ -6,6 +6,7 @@ This is a collection of web projects using just vanilla JavaScript. No Framework
 * [Custom Video Player](custom-video-player)
 * [Exchange Rate Calculator](exchange-rate)
 * [DOM Array Methods](dom-array-methods)
+* [Modal Menu Slider](modal-menu-slider)
 
 ## Resources
 * Thanks to Brad Traversy and his excellent [Udemy Course](https://www.udemy.com/course/web-projects-with-vanilla-javascript).
