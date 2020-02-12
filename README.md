@@ -4,6 +4,7 @@ This is a collection of web projects using just vanilla JavaScript. No Framework
 * [Form Validators](form-validators)
 * [Movie Seats Booking](movie-seats-booking)
 * [Custom Video Player](custom-video-player)
+* [Exchange Rate Calculator](exchange-rate)
 
 ## Resources
 * Thanks to Brad Traversy and his excellent [Udemy Course](https://www.udemy.com/course/web-projects-with-vanilla-javascript).
