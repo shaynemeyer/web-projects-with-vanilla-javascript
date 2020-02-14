@@ -11,6 +11,7 @@ This is a collection of web projects using just vanilla JavaScript. No Framework
 * [Meal Finder](meal-finder)
 * [Expense Tracker](expense-tracker)
 * [Music Player](music-player)
+* [Infinite Scoll Blog](infinite-scroll-blog)
 
 ## Resources
 * Thanks to Brad Traversy and his excellent [Udemy Course](https://www.udemy.com/course/web-projects-with-vanilla-javascript).
