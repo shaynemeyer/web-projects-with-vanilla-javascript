@@ -9,6 +9,7 @@ This is a collection of web projects using just vanilla JavaScript. No Framework
 * [Modal Menu Slider](modal-menu-slider)
 * [Hangman](hangman)
 * [Meal Finder](meal-finder)
+* [Expense Tracker](expense-tracker)
 
 ## Resources
 * Thanks to Brad Traversy and his excellent [Udemy Course](https://www.udemy.com/course/web-projects-with-vanilla-javascript).
