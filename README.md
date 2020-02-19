@@ -14,6 +14,7 @@ This is a collection of web projects using just vanilla JavaScript. No Framework
 * [Infinite Scoll Blog](infinite-scroll-blog)
 * [Speech Text Reader](speech-text-reader)
 * [Memory Cards](memory-cards)
+* [Breakout Game](breakout-game)
 
 ## Resources
 * Thanks to Brad Traversy and his excellent [Udemy Course](https://www.udemy.com/course/web-projects-with-vanilla-javascript).
