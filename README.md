@@ -15,6 +15,7 @@ This is a collection of web projects using just vanilla JavaScript. No Framework
 * [Speech Text Reader](speech-text-reader)
 * [Memory Cards](memory-cards)
 * [Breakout Game](breakout-game)
+* [New Year Countdown](new-year-countdown)
 
 ## Resources
 * Thanks to Brad Traversy and his excellent [Udemy Course](https://www.udemy.com/course/web-projects-with-vanilla-javascript).
