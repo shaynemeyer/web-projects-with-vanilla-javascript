@@ -13,6 +13,7 @@ This is a collection of web projects using just vanilla JavaScript. No Framework
 * [Music Player](music-player)
 * [Infinite Scoll Blog](infinite-scroll-blog)
 * [Speech Text Reader](speech-text-reader)
+* [Memory Cards](memory-cards)
 
 ## Resources
 * Thanks to Brad Traversy and his excellent [Udemy Course](https://www.udemy.com/course/web-projects-with-vanilla-javascript).
