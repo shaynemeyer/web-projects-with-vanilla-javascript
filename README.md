@@ -16,6 +16,7 @@ This is a collection of web projects using just vanilla JavaScript. No Framework
 * [Memory Cards](memory-cards)
 * [Breakout Game](breakout-game)
 * [New Year Countdown](new-year-countdown)
+* [Sortable List](sortable-list)
 
 ## Resources
 * Thanks to Brad Traversy and his excellent [Udemy Course](https://www.udemy.com/course/web-projects-with-vanilla-javascript).
